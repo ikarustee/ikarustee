@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Tanja</h1>
-<h3 align="center">Passionate frontend developer with flair for good UI/UX</h3>
+<h3 align="center">Passionate frontend developer with flair for good UI/UX</h3></br>
 
 
 🔭 Working (nearly) daily on improving my coding skills
