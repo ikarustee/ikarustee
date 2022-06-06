@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Tanja</h1>
+<h1 align="center">Hi 👋🏻 I'm Tanja</h1>
 <h3 align="center">Passionate frontend developer with flair for good UI/UX</h3></br>
 
 
@@ -10,7 +10,7 @@
 
 🌱 Currently I'm working through a Udemy MERN course
 
-👨‍💻 All of my projects are available on my [personal portfolio](https://pixelschubse.info/)
+👩🏻‍💻 All of my projects are available on my [personal portfolio](https://pixelschubse.info/)
 
 ⚡ Fun fact: At least once a week I feel to stupid to code
 
