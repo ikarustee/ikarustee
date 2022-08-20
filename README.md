@@ -8,7 +8,7 @@
 
 🤝 I'm always open to get optimization tips 
 
-🌱 Currently I'm working through a Udemy MERN course
+🌱 Currently I'm working through a Udemy PHP course
 
 👩🏻‍💻 All of my projects are available on my [personal portfolio](https://pixelschubse.info/)
 
